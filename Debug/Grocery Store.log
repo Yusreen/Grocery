@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Yusre\source\repos\Grocery Store\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Yusre\source\repos\Grocery Store\Main.cpp(246,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Grocery Store.vcxproj -> C:\Users\Yusre\source\repos\Grocery Store\Debug\Grocery Store.exe
